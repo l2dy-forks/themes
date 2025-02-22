@@ -1,9 +1,3 @@
-/*
- * Nord Copyright (c) 2017-present Arctic Ice Studio <development@arcticicestudio.com>
- *
- * Originally released under the MIT license.
- */
-
 t.prefs_.set('color-palette-overrides', [
   '#3B4252', '#BF616A',
   '#A3BE8C', '#EBCB8B',
